@@ -7,5 +7,4 @@ To use it simply copy and paste the below to the bottom of your downloader.ini f
 [ajgowans/manualsdb-virtualboy]
 db_url = https://raw.githubusercontent.com/ajgowans/manualsdb-virtualboy/db/db.json.zip
 
-Or download this .ini file and put it in /media/fat
-https://github.com/ajgowans/manualsdb-virtualboy/blob/db/downloader_ajgowans_manualsdb-virtualboy.ini
+Or download this .ini file and put it in /media/fat https://github.com/ajgowans/manualsdb-virtualboy/blob/db/downloader_ajgowans_manualsdb-virtualboy.ini
